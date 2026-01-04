@@ -200,7 +200,7 @@ axes:
 
 ## Custom Enchantment Translation
 
-The Timber enchantment uses the translation key `enchantment.timberz.timber`. If you want to customize the name displayed to players, you can create a resource pack on your server with a custom translation.
+The Timber enchantment uses the translation key `enchantment.timberz.timber`. If you want to customize the name displayed to players, you can create or update your server’s resource pack with a custom translation.
 
 ### How to Add Custom Translations
 
